@@ -1,2 +1,4 @@
 # kotlin-resources
-A list of helpful resources related to Kotlin!
+
+## Podcast
+- https://github.com/artem-zinnatullin/TheContext-Podcast/releases/tag/Episode_10
